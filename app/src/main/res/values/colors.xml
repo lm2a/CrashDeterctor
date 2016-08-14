@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="background_color">#FFD203</color>
+
+    <color name="foreground_text_color">#FF000000</color>
+    <color name="background_text_color">#FFFFFFFF</color>
+    <color name="foreground_text_shadow">#AAFFFFFF</color>
+
+    <color name="shadow_color">#000000</color>
+    <color name="summary_color">#666666</color>
+    <color name="titlebar_text_color">#FF413300</color>
+    <color name="titlebar_text_shadow_color">#88FFFFFF</color>
+    <color name="button_text_shadow_color">#88FFFFFF</color>
+    <color name="yellow_100">#FFCC00</color>
+    <color name="yellow_50">#FFE192</color>
+    <color name="yellow_20">#FFF1D0</color>
+    <color name="yellow_10">#FFF7E5</color>
+    <color name="trans_test1">#00FFCC00</color>
+    <color name="trans_test2">#AAFFF7E5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="reminder_pending_text_colour">#FF0000</color>
+
+    <!-- Virtual card -->
+    <color name="aalib_dark_brown">#6C6753</color>
+</resources>
